@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
+<!--p align="center">
 <span style="font-size:100px">&#128138;</span>
-</p>
+</p-->
 <h1 align="center">
   Mang Cook
 </h1>
@@ -40,11 +40,11 @@ Don't know what to prepare? Let Mang Cook know what you have and he'll take it f
 
     The app is now running at `http://localhost:8000`!
 
-    For recipe contributions, open the `mang-cook/` directory in your code editor of choice and edit `static/recipes.json`.
+    For recipe contributions, open the `mang-cook/` directory in your code editor of choice and edit `static/recipes.json`. Make sure to add the dish name and their ingredients. Afterwards, go to `static/ingredients.json` and make sure the ingredients you added are already part of the master list. If not, feel free to add!
 
 ## Built With
 
-- [Gatsby](https://www.gatsbyjs.com/))
+- [Gatsby](https://www.gatsbyjs.com/)
 - [Bulma](https://bulma.io/)
 
 ## Authors

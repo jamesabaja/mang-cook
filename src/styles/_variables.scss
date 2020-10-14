@@ -13,6 +13,14 @@ $size-6: 1rem !default;
 $size-7: 0.75rem !default;
 $body-font-size: $size-6;
 
+$primary: #739e82;
+$danger: #b0413e;
+$warning: #efa00b;
+$info: #4ba3c3;
+$success: #c5e6a6;
+
+$black: #000;
+
 $spacer: 1rem;
 $gap: 32px;
 $desktop: 960px+ (2 * $gap);
