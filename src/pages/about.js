@@ -1,13 +1,12 @@
 import React from "react"
-
 import Layout from "../components/Layout/Layout"
 import Container from "../components/Layout/Container"
-import Home from "../components/Home"
+import About from "../components/About"
 
 export default () => (
-  <Layout seoTitle="Home">
+  <Layout seoTitle="About" title="Who is Mang Cook?">
     <Container isCentered>
-      <Home />
+      <About />
     </Container>
   </Layout>
 )
