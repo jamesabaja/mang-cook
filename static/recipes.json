@@ -67,5 +67,62 @@
       "Patis",
       "Paminta"
     ]
+  },
+  {
+    "name": "Inasal",
+    "ingredients": [
+      "Manok",
+      "Suka",
+      "Sibuyas",
+      "Luya",
+      "Kalamansi",
+      "Patis",
+      "Paminta",
+      "Achuete"
+    ]
+  },
+  {
+    "name": "Sinigang na Bangus",
+    "ingredients": [
+      "Bangus",
+      "Kangkong",
+      "Siling Pansigang",
+      "Kamatis",
+      "Sibuyas",
+      "Okra",
+      "Sitaw",
+      "Sinigang Mix",
+      "Patis",
+      "Paminta",
+      "Labanos"
+    ]
+  },
+  {
+    "name": "Sinigang na Salmon",
+    "ingredients": [
+      "Bangus",
+      "Kangkong",
+      "Siling Pansigang",
+      "Kamatis",
+      "Sibuyas",
+      "Okra",
+      "Sitaw",
+      "Sinigang Mix",
+      "Patis",
+      "Paminta",
+      "Labanos"
+    ]
+  },
+
+  {
+    "name": "Adobong Pusit",
+    "ingredients": [
+      "Toyo",
+      "Paminta",
+      "Bawang",
+      "Sibuyas",
+      "Kamatis",
+      "Tinta ng Pusit"
+    ]
   }
 ]
