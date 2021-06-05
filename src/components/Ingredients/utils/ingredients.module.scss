@@ -1,0 +1,24 @@
+.recipe__image {
+  width: 21rem;
+  height: 13rem;
+  max-width: 21rem;
+  max-height: 13rem;
+}
+
+.recipe__button {
+  border-radius: 0px;
+}
+
+.shopping_list__item--checked {
+  text-decoration: line-through;
+  animation: strike 0.5s linear;
+}
+
+@keyframes strike {
+  from {
+    text-decoration-color: transparent;
+  }
+  to {
+    text-decoration-color: auto;
+  }
+}

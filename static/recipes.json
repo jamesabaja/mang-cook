@@ -1,6 +1,7 @@
 [
   {
     "name": "Sinigang na Baboy",
+    "image": "sinigang_na_baboy",
     "ingredients": [
       "Baboy",
       "Kangkong",
@@ -17,12 +18,13 @@
   },
   {
     "name": "Tinolang Manok",
+    "image": "tinolang_manok",
     "ingredients": [
       "Manok",
       "Dahon ng Malunggay",
       "Dahon ng Sili",
       "Bawang",
-      "Green Papaya",
+      "Papaya",
       "Sibuyas",
       "Luya",
       "Patis",
@@ -31,14 +33,17 @@
   },
   {
     "name": "Adobong Manok",
+    "image": "adobong_manok",
     "ingredients": ["Manok", "Bawang", "Sibuyas", "Suka", "Toyo", "Paminta"]
   },
   {
     "name": "Adobong Baboy",
+    "image": "adobong_baboy",
     "ingredients": ["Baboy", "Bawang", "Sibuyas", "Suka", "Toyo", "Paminta"]
   },
   {
     "name": "Ginisang Monggo",
+    "image": "ginisang_monggo",
     "ingredients": [
       "Baboy",
       "Monggo",
@@ -54,10 +59,12 @@
   },
   {
     "name": "Ginisang Sayote",
+    "image": "ginisang_sayote",
     "ingredients": ["Baboy", "Sayote", "Sibuyas", "Bawang", "Paminta"]
   },
   {
     "name": "Ginisang Upo na may Sardinas",
+    "image": "ginisang_upo_sa_sardinas",
     "ingredients": [
       "Upo",
       "Sardinas",
@@ -70,6 +77,7 @@
   },
   {
     "name": "Inasal",
+    "image": "inasal_na_manok",
     "ingredients": [
       "Manok",
       "Suka",
@@ -83,6 +91,7 @@
   },
   {
     "name": "Sinigang na Bangus",
+    "image": "sinigang_na_bangus",
     "ingredients": [
       "Bangus",
       "Kangkong",
@@ -99,6 +108,7 @@
   },
   {
     "name": "Adobong Pusit",
+    "image": "adobong_pusit",
     "ingredients": [
       "Toyo",
       "Paminta",
