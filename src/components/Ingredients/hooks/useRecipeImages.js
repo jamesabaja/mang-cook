@@ -82,6 +82,13 @@ const ALL_RECIPES_QUERY = graphql`
         }
       }
     }
+    hotsilog: file(relativePath: { eq: "recipes/hotsilog.jpeg" }){
+      childImageSharp {
+        fixed(width: 600) {
+          ...GatsbyImageSharpFixed
+        }
+      }
+    }
   }
 `
 

@@ -117,5 +117,13 @@
       "Kamatis",
       "Tinta ng Pusit"
     ]
+  },
+  {
+    "name": "Hotsilog",
+    "image": "hotsilog",
+    "ingredients": [
+      "Hotdog",
+      "Itlog"
+    ]
   }
 ]
