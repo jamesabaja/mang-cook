@@ -117,5 +117,17 @@
       "Kamatis",
       "Tinta ng Pusit"
     ]
+  },
+  {
+    "name": "Sisig",
+    "image": "sisig",
+    "ingredients": [
+      "Tenga ng Baboy",
+      "Atay ng Manok",
+      "Toyo",
+      "Siling Labuyo",
+      "Tinta ng Pusit",
+      "Itlog"
+    ]
   }
 ]

@@ -82,6 +82,13 @@ const ALL_RECIPES_QUERY = graphql`
         }
       }
     }
+    sisig: file(relativePath: { eq: "recipes/sisig.jpeg" }) {
+      childImageSharp {
+        fixed(width: 600) {
+          ...GatsbyImageSharpFixed
+        }
+      }
+    }
   }
 `
 
