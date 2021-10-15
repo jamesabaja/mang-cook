@@ -66,6 +66,15 @@ const ALL_RECIPES_QUERY = graphql`
         }
       }
     }
+    pininyahang_manok: file(
+      relativePath: { eq: "recipes/pininyahang-manok.jpg" }
+    ) {
+      childImageSharp {
+        fixed(width: 600) {
+          ...GatsbyImageSharpFixed
+        }
+      }
+    }
     sinigang_na_bangus: file(
       relativePath: { eq: "recipes/sinigang-na-bangus.jpeg" }
     ) {

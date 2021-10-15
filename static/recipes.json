@@ -32,6 +32,18 @@
     ]
   },
   {
+    "name": "Pininyahang Manok",
+    "image": "pininyahang_manok",
+    "ingredients": [
+      "Manok",
+      "Pinya",
+      "Red Bell Pepper",
+      "Green Bell Pepper",
+      "Carrot",
+      "Gatas"
+    ]
+  },
+  {
     "name": "Adobong Manok",
     "image": "adobong_manok",
     "ingredients": ["Manok", "Bawang", "Sibuyas", "Suka", "Toyo", "Paminta"]
